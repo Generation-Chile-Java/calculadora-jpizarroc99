@@ -21,7 +21,7 @@ public class Calculadora {
         System.out.println("Suma: " + suma);
         System.out.println("Resta: " + resta);
         System.out.println("Multiplicación; " + multiplicacion);
-    /**División**/
+    //División//
     if (n1 != 0){
         System.out.println("División; " + division);
         System.out.println("Resto:"+ restoDiv);}
